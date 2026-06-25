@@ -1,0 +1,6 @@
+{
+  "name": "Oxente Festeje - Brindes e Lembrancinhas",
+  "description": "Landing page vibrante e moderna para a Oxente Festeje, com simulador de orçamento interativo, preview 3D de brindes e animações festivas de balões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
